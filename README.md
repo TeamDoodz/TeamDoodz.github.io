@@ -4,7 +4,7 @@
 Hello!
 I am a random guy on Github, and you somehow found me!<br/><br/>
 
-Here is a list of technologies I enjoy:
+## Here is a list of technologies I enjoy:
 - Typescript/NodeJS
 - Web Javascript
 - JQuery
@@ -13,11 +13,11 @@ Here is a list of technologies I enjoy:
 - Github
 - Git
 
-Here is a list of technologies I don't enjoy:
+## Here is a list of technologies I don't enjoy:
 - PHP
 - Python
 
-Some things I have made/are working on:<br/><br/>
+## Some things I have made/are working on:<br/><br/>
 
 [domscript](https://ateurgames.github.io/domscript) - Some weird JS framework<br/>
 [commandscript](https://github.com/AteurGames/commandscript) - Unfinished programming language
