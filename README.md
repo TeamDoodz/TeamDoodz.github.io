@@ -19,5 +19,5 @@ Here is a list of technologies I don't enjoy:
 
 Some things I have made/are working on:<br/><br/>
 
-[[domscript]] - Some weird JS framework
+[domscript](https://ateurgames.github.io/domscript) - Some weird JS framework<br/>
 [commandscript](https://github.com/AteurGames/commandscript) - Unfinished programming language
