@@ -7,3 +7,6 @@ Hi! I am a young guy who makes games and stuff.
 - [Terrainium](https://teamdoodz.itch.io/terrainium)
 - [The No One Exercise](https://teamdoodz.itch.io/the-no-one-exercise)
 - [Nausea Bot](https://teamdoodz.itch.io/nausea-bot)
+
+## Blog
+[Blog](blog/readme.md)
