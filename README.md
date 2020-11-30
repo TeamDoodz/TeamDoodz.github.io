@@ -1,6 +1,6 @@
 # TeamDoodz
 
-Hi! I am a young guy who makes games and stuff.
+Hi! I am a young guy who makes games and stuff. 
 
 ## My games currently:
 - [Snakeoban](https://teamdoodz.itch.io/snakeoban)
