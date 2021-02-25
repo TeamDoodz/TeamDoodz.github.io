@@ -10,5 +10,5 @@ Hi! I am a young guy who makes games and stuff.
 - [Nausea Bot](https://teamdoodz.itch.io/nausea-bot)
 
 ## Links
-[Blog](blog/readme.md)
-[Itch](https://teamdoodz.itch.io/)
+- [Blog](blog/readme.md)
+- [Itch](https://teamdoodz.itch.io/)
