@@ -12,3 +12,7 @@ Hi! I am a young guy who makes games and stuff.
 ## Links
 - [Blog](blog/readme.md)
 - [Itch](https://teamdoodz.itch.io/)
+
+## ANTI_PIRATE, A top-down sci-fi rougelite
+
+<a href="https://teamdoodz.itch.io/anti-pirate"><img src="images/antipirate1.PNG"/></a>
