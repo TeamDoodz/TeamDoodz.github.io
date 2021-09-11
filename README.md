@@ -9,6 +9,10 @@ Hi! I am a young guy who makes games and stuff.
 - [The No One Exercise](https://teamdoodz.itch.io/the-no-one-exercise)
 - [Nausea Bot](https://teamdoodz.itch.io/nausea-bot)
 
+## Other projects:
+
+- [TTCModManager](https://github.com/TeamDoodz/TTCModManager)
+
 ## Links
 - [Blog](blog/readme.md)
 - [Itch](https://teamdoodz.itch.io/)
