@@ -16,6 +16,7 @@ Hi! I am a young guy who makes games and stuff.
 ## Links
 - [Blog](blog/readme.md)
 - [Itch](https://teamdoodz.itch.io/)
+- [Thunderstore](https://inscryption.thunderstore.io/package/TeamDoodz/)
 
 ## ANTI_PIRATE, A top-down sci-fi rougelite
 
